@@ -1,0 +1,13 @@
+ul>li{
+  list-style: none;
+}
+.container{
+    background-color: greenyellow;
+}
+.log{
+    padding-top:20PX;
+    padding-left: 45%;
+}
+.cl{
+    padding-right:150% ;
+}
